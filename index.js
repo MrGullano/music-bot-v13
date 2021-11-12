@@ -13,4 +13,4 @@ client.config = require("./config.json");
 // Initializing the project
 require("./handler")(client);
 
-client.login(client.config.token);
+client.login(ODg1MTc1Mjg4ODk0NDY0MDUy.YTjNug.xqLpAxsxBeLBSjdBDetL-jHT-mQ);
